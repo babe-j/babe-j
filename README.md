@@ -8,7 +8,8 @@ I’m particularly interested in contributing to **sustainable energy** and **in
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I’m a huge fan of crime thrillers — whether movies, novels, or shows
 - 🏓 Hobbies: Tennis
-- 📫 Reach me at **[udeobij@gmail.com](mailto:udeobij@gmail.com)**  
+- 📫 Reach me at **[udeobij@gmail.com](mailto:udeobij@gmail.com)**
+- 🔗 Connect with me on [Linkdin](https://www.linkedin.com/in/babej/)
 
 
 
