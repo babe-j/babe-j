@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**babe-j/babe-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jennifer — a final year **Petroleum & Gas Engineering undergraduate** and **Junior Data Analytics Engineer** with a strong passion for turning data into actionable insights.  
+I’m particularly interested in contributing to **sustainable energy** and **innovative solutions** through data and research.  
 
-Here are some ideas to get you started:
+- 🌱 Currently learning and growing into a qualified **Data Engineer**, one project at a time  
+- 👯 Seeking opportunities in the data space to further develop my skills as a data engineer  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I’m a huge fan of crime thrillers — whether movies, novels, or shows
+- 🏓 Hobbies: Tennis
+- 📫 Reach me at **[udeobij@gmail.com](mailto:udeobij@gmail.com)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+.
