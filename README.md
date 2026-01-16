@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jennifer — a final year **Petroleum & Gas Engineering undergraduate** and **Junior Data Analytics Engineer** with a strong passion for turning data into actionable insights.  
+I'm Jennifer, a graduate with a background in Oil and Gas Engineering, and a Junior Data Analytics Engineer with a strong passion for transforming data into actionable insights.  
 I’m particularly interested in contributing to **sustainable energy** and **innovative solutions** through data and research.  
 
 - 🌱 Currently learning and growing into a qualified **Data Engineer**, one project at a time  
